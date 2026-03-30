@@ -47,8 +47,8 @@ import shutil
 # ------------------------------- #
 # 🔐 YOUR CREDENTIALS
 # ------------------------------- #
-USERNAME = "satyam1.mishra@upgrad.com"
-PASSWORD = "Satyam@123"
+USERNAME = "test@.com"
+PASSWORD = "test123"
 
 # ------------------------------- #
 # 🚀 SETUP DRIVER (FIXED)
